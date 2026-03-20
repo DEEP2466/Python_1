@@ -1,1 +1,1 @@
-print("Hello Deepak - Changed 1")
+print("Hello Deepak - Its Friday Changed 1")
